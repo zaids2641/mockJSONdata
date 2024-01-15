@@ -1,0 +1,92 @@
+{
+    "Category": "Men's Shirt",
+    "Subcategories": [
+      {
+        "Name": "Dress Shirt",
+        "Types": [
+          "Long Sleeve",
+          "Short Sleeve",
+          "3/4 Sleeve"
+        ],
+        "FitTypes": [
+          "Tailored Fit",
+          "Slim Fit",
+          "Loose Fit"
+        ],
+        "CollarTypes": [
+          "Pointed Collar",
+          "Collar Down",
+          "Spread Collar",
+          "Wingtip Collar"
+        ],
+        "CuffStyles": [
+          "French Cuffs",
+          "Single Cuffs",
+          "Barrel Cuffs",
+          "Mitered Cuffs",
+          "Rounded Cuffs",
+          "Cocktail Cuffs",
+          "Adjustable Cuffs",
+          "Two-Button Rounded Cuffs",
+          "Long One-Button Cuffs",
+          "Cavalier Cuffs"
+        ]
+      },
+      {
+        "Name": "Casual Shirt",
+        "Types": [
+          "Long Sleeve",
+          "Short Sleeve",
+          "3/4 Sleeve"
+        ],
+        "FitTypes": [
+          "Tailored Fit",
+          "Slim Fit",
+          "Loose Fit"
+        ],
+        "CollarTypes": [
+          "Pointed Collar",
+          "Collar Down",
+          "Spread Collar",
+          "Wingtip Collar"
+        ],
+        "CuffStyles": [
+          "French Cuffs",
+          "Single Cuffs",
+          "Barrel Cuffs",
+          "Mitered Cuffs",
+          "Rounded Cuffs",
+          "Cocktail Cuffs",
+          "Adjustable Cuffs",
+          "Two-Button Rounded Cuffs",
+          "Long One-Button Cuffs",
+          "Cavalier Cuffs"
+        ]
+      }
+    ],
+    "AdditionalAttributes": {
+      "Pattern": [
+        "Plain",
+        "Plaids",
+        "Florals",
+        "Stripes",
+        "Checks",
+        "Prints"
+      ],
+      "Occasion": [
+        "Events",
+        "Business",
+        "Wedding",
+        "Graduation",
+        "Office"
+      ],
+      "NeckType": [
+        "Crewneck",
+        "V-Neck",
+        "Deep V-neck",
+        "Scoop Neck",
+        "Deep Scoop Neck",
+        "Bateau Neck"
+      ]
+    }
+  }
